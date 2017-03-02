@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+body {
+  padding-top: 10px;
+  padding-bottom: 10px;
+} 
+.container .navbar-brand {
+  font-family: 'Anton', sans-serif;
+  color: white;
+}
+
+.container .navbar-brand {
+  font-family: 'Anton', sans-serif;
+  color: white;
+  
+}
+
+
+.jumbotron {
+  background-image: url('../images/blueridge.jpg');
+  height: 350px;
+}
+
+.jumbotron h1 {
+  font-family: 'Anton', sans-serif;
+  color: white;
+}
+
+.jumbotron .container {
+  font-family: 'Anton', sans-serif;
+  color: white;
+}
+
+.container h2 {
+  font-family: 'Anton', sans-serif;
+}
