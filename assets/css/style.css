@@ -14,6 +14,13 @@ body {
   
 }
 
+h5 {
+  margin-top: -30px;
+}
+
+footer {
+  margin-top: -20px;
+}
 
 .jumbotron {
   background-image: url('../images/blueridge.jpg');
@@ -34,3 +41,14 @@ body {
 .container h2 {
   font-family: 'Anton', sans-serif;
 }
+
+/* Smartphones (portrait and landscape) -----------
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+Styles
+  .jumbotron h1 {
+  font-size: ;
+  font-family: 'Anton', sans-serif;
+  color: white;
+  text-shadow: 3px 2px black;
+}
+} */
